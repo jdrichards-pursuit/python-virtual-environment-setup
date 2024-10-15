@@ -52,4 +52,4 @@ Selecting the correct kernel ensures that your notebook uses the Python interpre
 
    <img src="./assets/python-ipykernel.png" alt="Python Install Ipykernel" width="500">
 
-   
+   Good Luck with your Python project!
