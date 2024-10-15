@@ -46,10 +46,10 @@ After you select the kernel, you should see the venv environment in the top righ
 
 Selecting the correct kernel ensures that your notebook uses the Python interpreter and packages from your virtual environment, maintaining consistency with your project setup.
 
-**NOTE**: When you first try to run code inside a Jupyter block or when you try to choose the kernel, you will most likely receive a popup saying that you must install `ipykernel`.
+**NOTE**: When you first try to run code inside a Jupyter block or when you try to choose the kernel, you will most likely receive a popup saying that you must install `ipykernel`. **Choose `Install`**
 
 
 
    <img src="./assets/python-ipykernel.png" alt="Python Install Ipykernel" width="500">
 
-   **Choose `Install`**
+   
