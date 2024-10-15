@@ -32,7 +32,9 @@ When working with a Python Workspace, it's crucial to select the correct kernel,
 
 <img src="./assets/python-environ.png" alt="Python Environment" width="500px height=300px">
 
-2. Click on it and choose the kernel that corresponds to your `venv` environment. It should be listed as something like "Python 3.x.x ('venv': venv)" and will often have 'Rec. (Recommended)' next to it.
+2. Choose `Python Environments` if you don't already see the option for your recommended `venv` (see above)
+
+3. Click on it and choose the kernel that corresponds to your `venv` environment. It should be listed as something like "Python 3.x.x ('venv': venv)" and will often have 'Rec. (Recommended)' next to it.
 
 <img src="./assets/python-recommended.png" alt="Python Recommended" width="500px height=300px">
 
@@ -40,7 +42,7 @@ After you select the kernel, you should see the venv environment in the top righ
 
 <img src="./assets/python-chosen.png" alt="Python Chosen Kernel" width="500px height=300px">
 
-3. If you don't see your `venv` environment, you may need to restart VSCode or reload the window.
+4. If you don't see your `venv` environment, you may need to restart VSCode or reload the window.
 
 Selecting the correct kernel ensures that your notebook uses the Python interpreter and packages from your virtual environment, maintaining consistency with your project setup.
 
