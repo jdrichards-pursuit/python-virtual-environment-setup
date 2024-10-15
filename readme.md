@@ -34,7 +34,7 @@ When working with a Python Workspace, it's crucial to select the correct kernel,
 
 2. Choose `Python Environments` if you don't already see the option for your recommended `venv` (see above)
 
-3. Click on it and choose the kernel that corresponds to your `venv` environment. It should be listed as something like "Python 3.x.x ('venv': venv)" and will often have 'Rec. (Recommended)' next to it.
+3. Choose the kernel that corresponds to your `venv` environment. It should be listed as something like "Python 3.x.x ('venv': venv)" and will often have 'Rec. (Recommended)' next to it.
 
 <img src="./assets/python-recommended.png" alt="Python Recommended" width="500px height=300px">
 
@@ -48,6 +48,8 @@ Selecting the correct kernel ensures that your notebook uses the Python interpre
 
 **NOTE**: When you first try to run code inside a Jupyter block or when you try to choose the kernel, you will most likely receive a popup saying that you must install `ipykernel`.
 
-Choose `Install`
+
 
    <img src="./assets/python-ipykernel.png" alt="Python Install Ipykernel" width="500">
+
+   **Choose `Install`**
