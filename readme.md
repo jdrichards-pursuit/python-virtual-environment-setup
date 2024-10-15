@@ -48,4 +48,4 @@ Selecting the correct kernel ensures that your notebook uses the Python interpre
 
 Choose `Install`
 
-   <img src="./assets/python-ipykernel.png" alt="Python Install Ipykernel" width="300px">
+   <img src="./assets/python-ipykernel.png" alt="Python Install Ipykernel" width="500px">
